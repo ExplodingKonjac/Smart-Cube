@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cube/cube_model.obj</file>
+        <file>cube/Y_center.png</file>
+        <file>cube/YB_edge.png</file>
+        <file>cube/YBR_corner.png</file>
+        <file>cube/YG_edge.png</file>
+        <file>cube/YGO_corner.png</file>
+        <file>cube/YO_edge.png</file>
+        <file>cube/YOB_corner.png</file>
+        <file>cube/YR_edge.png</file>
+        <file>cube/YRG_corner.png</file>
+        <file>cube/B_center.png</file>
+        <file>cube/G_center.png</file>
+        <file>cube/GO_edge.png</file>
+        <file>cube/O_center.png</file>
+        <file>cube/OB_edge.png</file>
+        <file>cube/R_center.png</file>
+        <file>cube/RB_edge.png</file>
+        <file>cube/RG_edge.png</file>
+        <file>cube/W_center.png</file>
+        <file>cube/WB_edge.png</file>
+        <file>cube/WBR_corner.png</file>
+        <file>cube/WG_edge.png</file>
+        <file>cube/WGO_corner.png</file>
+        <file>cube/WO_edge.png</file>
+        <file>cube/WOB_corner.png</file>
+        <file>cube/WR_edge.png</file>
+        <file>cube/WRG_corner.png</file>
+        <file>cube/selector.png</file>
+        <file>cube/plane_model.obj</file>
+        <file>cube/empty.png</file>
+        <file>icon.png</file>
+        <file>icon.ico</file>
+    </qresource>
+</RCC>
